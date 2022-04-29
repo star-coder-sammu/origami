@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+#home{
+    background-color: lightpink;
+    font-family: 'Pacifico', cursive;
+}
+h2,h3,h4,h5,h6{
+    text-decoration-line: underline;
+    font-size: 28px;
+}
+.menu{
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    background-color: #FFFFFF;
+    z-index: 10;
+    
+}
+
+    
